@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="ru">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Самовар</title>
+    <link rel="stylesheet" href="../styles.css" />
+</head>
+
+<body>
+    <img src="image.png" alt="Самовар" />
+
+    <div class="audio-block">
+        <label for="voice">🎙️ Чтение текста</label>
+        <audio id="voice" src="voice.mp3" controls></audio>
+    </div>
+
+    <div class="audio-block">
+        <label for="song">🎵 Песня</label>
+        <audio id="song" src="song.mp3" controls></audio>
+    </div>
+
+    <h1>Самовар</h1>
+
+    <div class="text">
+        <p><strong>Самова́р</strong> — металлический сосуд для кипячения воды и приготовления чая. Вода в самоваре
+            нагревается внутренней топкой в виде вертикальной трубы, заполняемой древесным углем.</p>
+        <p>В России родиной самоваров считают Тулу (существует даже поговорка «В Тулу со своим самоваром не ездят»).</p>
+        <p>Детали самовара:</p>
+        <ol>
+            <li>Заглушка</li>
+            <li>Конфорка</li>
+            <li>Крышка</li>
+            <li>Тулово</li>
+            <li>Ручка-валик</li>
+            <li>Поддувало</li>
+            <li>Носик</li>
+            <li>Конусный кран</li>
+            <li>Ручки-«шишки»</li>
+        </ol>
+    </div>
+
+    <div id="qrcode" style="width: 128px; height: 128px;"></div>
+    <script src="../qrcode.min.js"></script>
+    <script src="../qr.js"></script>
+</body>
+
+</html>

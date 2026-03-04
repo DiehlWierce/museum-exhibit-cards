@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="ru">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Ухват</title>
+    <link rel="stylesheet" href="../styles.css" />
+</head>
+
+<body>
+    <img src="image.png" alt="Ухват" />
+
+    <div class="audio-block">
+        <label for="voice">🎙️ Чтение текста</label>
+        <audio id="voice" src="voice.mp3" controls></audio>
+    </div>
+
+    <div class="audio-block">
+        <label for="song">🎵 Поговорка</label>
+        <audio id="song" src="song.mp3" controls></audio>
+    </div>
+
+    <h1>Ухват</h1>
+
+    <div class="text">
+        <p><strong>Ухва́т, рога́ч</strong> — ручной инструмент для перемещения глиняных и чугунных горшков для еды,
+            установки их в топку русской печи. Представляет собой металлическую рогатку, закреплённую на длинном
+            черенке. Для перемещения самых больших и тяжёлых чугунков использовался деревянный валик, который
+            подкладывался под ухват.</p>
+    </div>
+
+    <div id="qrcode" style="width: 128px; height: 128px;"></div>
+    <script src="../qrcode.min.js"></script>
+    <script src="../qr.js"></script>
+</body>
+
+</html>

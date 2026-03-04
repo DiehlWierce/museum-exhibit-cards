@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="ru">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Самопрялка</title>
+    <link rel="stylesheet" href="../styles.css" />
+</head>
+
+<body>
+    <img src="image.jpg" alt="Самопрялка" />
+
+    <div class="audio-block">
+        <label for="voice">🎙️ Чтение текста</label>
+        <audio id="voice" src="voice.mp3" controls></audio>
+    </div>
+
+    <div class="audio-block">
+        <label for="song">🎵 Песня</label>
+        <audio id="song" src="song.mp3" controls></audio>
+    </div>
+
+    <h1>Самопрялка</h1>
+
+    <div class="text">
+        <p><strong>Самопрялка</strong> — это механическое устройство для прядения нитей из волокон, которое появилось в
+            крестьянском быту, начиная с середины девятнадцатого века. </p>
+        <p>Самопрялка состоит из доски с установленным на ней цилиндром с горизонтально закрепленным веретеном. Рукой
+            поворачивается колесо и через ремень вращение передаётся веретену́. Левой рукой подаются волокна к острому
+            концу веретена, правой — прокручивается колесо. Когда нить увеличится на длину руки, её наматывают на
+            стержень веретена и прядут дальше. </p>
+        <p>На Руси самопрялки разделяли на русские (стояки́) и <i>чухонки</i> (лежаки́).</p>
+        <p>У русских колесо располагалось перпендикулярно полу, у чухонок — под углом.</p>
+    </div>
+
+    <div id="qrcode" style="width: 128px; height: 128px;"></div>
+    <script src="../qrcode.min.js"></script>
+    <script src="../qr.js"></script>
+</body>
+
+</html>

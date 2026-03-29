@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Ракетус</title>
+    <link rel="stylesheet" href="../styles.css" />
+</head>
+<body>
+    <img src="image.webp" alt="Ракетус" loading="lazy" />
+
+    <div class="audio-block">
+        <label for="voice_1">🎙️ Приветствие хранителя</label>
+        <audio id="voice_1" src="voice_1.mp3" controls></audio>
+    </div>
+
+    <div class="audio-block">
+        <label for="voice_2">🎙️ Предупреждение хранителя</label>
+        <audio id="voice_2" src="voice_2.mp3" controls></audio>
+    </div>
+
+    <h1>Ракетус</h1>
+
+    <div id="qrcode" style="width: 128px; height: 128px;"></div>
+    <script src="../qrcode.min.js"></script>
+    <script src="../qr.js"></script>
+</body>
+</html>

@@ -3,6 +3,7 @@ const folders = [
   ["chinese-symbols", "Китайские иероглифы"],
   ["sights-of-moscow", "Достопримечательности Москвы"],
   ["traditional-russian-objects", "Народные предметы"],
+  ["guardians_of_codes", "Хранители кодов"],
 ];
 
 const menu = document.getElementById("menu");

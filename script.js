@@ -4,6 +4,7 @@ const folders = [
   ["sights-of-moscow", "Достопримечательности Москвы"],
   ["traditional-russian-objects", "Народные предметы"],
   ["guardians_of_codes", "Хранители кодов"],
+  ["moscow-places-and-stories", "Москва: места и истории"],
 ];
 
 const menu = document.getElementById("menu");

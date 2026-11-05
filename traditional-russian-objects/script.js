@@ -1,12 +1,12 @@
-// Массив папок: [имя папки на диске, отображаемое имя на русском]
+// Пункты меню: [папка, название]
 const folders = [
-  ["valenki", "Валенки"],
-  ["zimnyaya-krestyanskaya-obuv", "Зимняя крестьянская обувь"],
+  ["chugunok", "Чугунок"],
+  ["hlebnaya-lopata", "Хлебная лопата"],
   ["kadka", "Кадка"],
   ["kerosinovaya-lampa", "Керосиновая лампа"],
-  ["korzina", "Корзина"],
   ["koromyslo", "Коромысло"],
   ["koryto", "Корыто"],
+  ["korzina", "Корзина"],
   ["krasnyi-ugol", "Красный угол"],
   ["krynka", "Крынка"],
   ["kukly", "Куклы"],
@@ -15,24 +15,24 @@ const folders = [
   ["lyulka", "Люлька"],
   ["myalitsa", "Мялица"],
   ["rubel", "Рубель"],
-  ["russkaya-pech", "Русская печь"],
   ["ruchnye-pryalki", "Ручные прялки"],
+  ["russkaya-pech", "Русская печь"],
   ["samopryalki", "Самопрялки"],
   ["samovar", "Самовар"],
   ["tatahtushka", "Татахтушка"],
   ["tkatskii-stanok", "Ткацкий станок"],
-  ["utyug", "Утюг"],
   ["uhvat", "Ухват"],
-  ["hlebnaya-lopata", "Хлебная лопата"],
-  ["chugunok", "Чугунок"]
+  ["utyug", "Утюг"],
+  ["valenki", "Валенки"],
+  ["zimnyaya-krestyanskaya-obuv", "Зимняя крестьянская обувь"]
 ];
 
 const menu = document.getElementById("menu");
 
 folders.forEach(([folder, displayName]) => {
   const link = document.createElement("a");
-  link.href = `${folder}/index.html`;  // путь совпадает с именем папки
+  link.href = `${folder}/index.html`;
   link.className = "item";
-  link.textContent = displayName;      // отображаем красивое имя
+  link.textContent = displayName;
   menu.appendChild(link);
 });

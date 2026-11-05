@@ -1,0 +1,269 @@
+{
+  "base_url": "https://diehlwierce.github.io/museum-exhibit-cards/",
+  "routes": [
+    {
+      "url": "https://diehlwierce.github.io/museum-exhibit-cards/chinese-symbols/child/index.html",
+      "title": "Иероглиф \"Ребенок\""
+    },
+    {
+      "url": "https://diehlwierce.github.io/museum-exhibit-cards/chinese-symbols/family/index.html",
+      "title": "Иероглиф \"Семья\""
+    },
+    {
+      "url": "https://diehlwierce.github.io/museum-exhibit-cards/chinese-symbols/happiness/index.html",
+      "title": "Иероглиф \"Счастье\""
+    },
+    {
+      "url": "https://diehlwierce.github.io/museum-exhibit-cards/chinese-symbols/love/index.html",
+      "title": "Иероглиф \"Любовь\""
+    },
+    {
+      "url": "https://diehlwierce.github.io/museum-exhibit-cards/chinese-symbols/sun/index.html",
+      "title": "Иероглиф \"Солнце\""
+    },
+    {
+      "url": "https://diehlwierce.github.io/museum-exhibit-cards/guardians_of_codes/guardians_of_codes/index.html",
+      "title": "Хранители кодов"
+    },
+    {
+      "url": "https://diehlwierce.github.io/museum-exhibit-cards/guardians_of_codes/quadratus/index.html",
+      "title": "Квадратус"
+    },
+    {
+      "url": "https://diehlwierce.github.io/museum-exhibit-cards/guardians_of_codes/raketus/index.html",
+      "title": "Ракетус"
+    },
+    {
+      "url": "https://diehlwierce.github.io/museum-exhibit-cards/moscow-places-and-stories/ded-moroz-estate/index.html",
+      "title": "Московская усадьба Деда Мороза"
+    },
+    {
+      "url": "https://diehlwierce.github.io/museum-exhibit-cards/moscow-places-and-stories/friendship-of-peoples-fountain/index.html",
+      "title": "Фонтан «Дружба народов»"
+    },
+    {
+      "url": "https://diehlwierce.github.io/museum-exhibit-cards/moscow-places-and-stories/luzhniki-sports-complex/index.html",
+      "title": "Спорткомплекс «Лужники»"
+    },
+    {
+      "url": "https://diehlwierce.github.io/museum-exhibit-cards/moscow-places-and-stories/mtsk-belokamennaya/index.html",
+      "title": "МЦК «Белокаменная»"
+    },
+    {
+      "url": "https://diehlwierce.github.io/museum-exhibit-cards/moscow-places-and-stories/mtsk-panfilovskaya/index.html",
+      "title": "МЦК «Панфиловская»"
+    },
+    {
+      "url": "https://diehlwierce.github.io/museum-exhibit-cards/moscow-places-and-stories/novoarbatskiy-most/index.html",
+      "title": "Новоарбатский мост"
+    },
+    {
+      "url": "https://diehlwierce.github.io/museum-exhibit-cards/moscow-places-and-stories/poklonnaya-gora-park-pobedy/index.html",
+      "title": "Поклонная гора и Парк Победы"
+    },
+    {
+      "url": "https://diehlwierce.github.io/museum-exhibit-cards/moscow-places-and-stories/sokolniki-amusement-park/index.html",
+      "title": "Парк аттракционов «Сокольники»"
+    },
+    {
+      "url": "https://diehlwierce.github.io/museum-exhibit-cards/moscow-places-and-stories/sokolniki-fire-tower/index.html",
+      "title": "Пожарная каланча в Сокольниках"
+    },
+    {
+      "url": "https://diehlwierce.github.io/museum-exhibit-cards/moscow-places-and-stories/southern-river-port/index.html",
+      "title": "Южный речной порт"
+    },
+    {
+      "url": "https://diehlwierce.github.io/museum-exhibit-cards/moscow-places-and-stories/state-kremlin-palace/index.html",
+      "title": "Государственный Кремлёвский дворец"
+    },
+    {
+      "url": "https://diehlwierce.github.io/museum-exhibit-cards/moscow-places-and-stories/tretyakov-gallery/index.html",
+      "title": "Третьяковская галерея"
+    },
+    {
+      "url": "https://diehlwierce.github.io/museum-exhibit-cards/sights-of-moscow/arka-vdnh/index.html",
+      "title": "Арка главного входа ВДНХ."
+    },
+    {
+      "url": "https://diehlwierce.github.io/museum-exhibit-cards/sights-of-moscow/bolshoy-teatr/index.html",
+      "title": "Большой театр."
+    },
+    {
+      "url": "https://diehlwierce.github.io/museum-exhibit-cards/sights-of-moscow/cirk-na-cvetnom-bulvare/index.html",
+      "title": "Московский цирк Никулина на Цветном бульваре"
+    },
+    {
+      "url": "https://diehlwierce.github.io/museum-exhibit-cards/sights-of-moscow/izmailovskiy-kreml/index.html",
+      "title": "Измайловский кремль"
+    },
+    {
+      "url": "https://diehlwierce.github.io/museum-exhibit-cards/sights-of-moscow/khram-vasiliya-blazhennogo/index.html",
+      "title": "Храм Василия Блаженного"
+    },
+    {
+      "url": "https://diehlwierce.github.io/museum-exhibit-cards/sights-of-moscow/moskovskiy-gosudarstvennyy-universitet/index.html",
+      "title": "МГУ"
+    },
+    {
+      "url": "https://diehlwierce.github.io/museum-exhibit-cards/sights-of-moscow/moskovskiy-metropoliten/index.html",
+      "title": "Московский метрополитен"
+    },
+    {
+      "url": "https://diehlwierce.github.io/museum-exhibit-cards/sights-of-moscow/moskovskiy-zoopark/index.html",
+      "title": "Московский зоопарк"
+    },
+    {
+      "url": "https://diehlwierce.github.io/museum-exhibit-cards/sights-of-moscow/moskva-siti/index.html",
+      "title": "Москва – Сити"
+    },
+    {
+      "url": "https://diehlwierce.github.io/museum-exhibit-cards/sights-of-moscow/ostankinskaya-bashnya/index.html",
+      "title": "Останкинская башня"
+    },
+    {
+      "url": "https://diehlwierce.github.io/museum-exhibit-cards/sights-of-moscow/park-sokolniki/index.html",
+      "title": "Парк Сокольники"
+    },
+    {
+      "url": "https://diehlwierce.github.io/museum-exhibit-cards/sights-of-moscow/rostokinskiy-akveduk-gidrotehnicheskoe-sooruzhenie/index.html",
+      "title": "Ростокинский акведук"
+    },
+    {
+      "url": "https://diehlwierce.github.io/museum-exhibit-cards/sights-of-moscow/severnyy-rechnoy-vokzal/index.html",
+      "title": "Северный речной вокзал"
+    },
+    {
+      "url": "https://diehlwierce.github.io/museum-exhibit-cards/sights-of-moscow/spasskaya-bashnya-kremla/index.html",
+      "title": "Спасская башня Кремля"
+    },
+    {
+      "url": "https://diehlwierce.github.io/museum-exhibit-cards/sights-of-moscow/teatr-kukol/index.html",
+      "title": "Государственный академический Центральный театр кукол имени Сергея Образцова"
+    },
+    {
+      "url": "https://diehlwierce.github.io/museum-exhibit-cards/sights-of-moscow/triumfalnaya-arka/index.html",
+      "title": "Триумфальная арка."
+    },
+    {
+      "url": "https://diehlwierce.github.io/museum-exhibit-cards/sights-of-moscow/vdnh-aviaciya-i-kosmos/index.html",
+      "title": "Центр «Космонавтика и авиация»."
+    },
+    {
+      "url": "https://diehlwierce.github.io/museum-exhibit-cards/sights-of-moscow/vdnh-gorodskaya-ferma/index.html",
+      "title": "Городская Ферма ВДНХ."
+    },
+    {
+      "url": "https://diehlwierce.github.io/museum-exhibit-cards/sights-of-moscow/vdnh-robostanciya/index.html",
+      "title": "Робостанция"
+    },
+    {
+      "url": "https://diehlwierce.github.io/museum-exhibit-cards/sights-of-moscow/zhivopisnyy-most/index.html",
+      "title": "Живописный мост"
+    },
+    {
+      "url": "https://diehlwierce.github.io/museum-exhibit-cards/sights-of-moscow/zhivoy-mir-kuzminkok-domik-dlya-ptic/index.html",
+      "title": "Кузьминский лесопарк"
+    },
+    {
+      "url": "https://diehlwierce.github.io/museum-exhibit-cards/traditional-russian-objects/chugunok/index.html",
+      "title": "Чугунок"
+    },
+    {
+      "url": "https://diehlwierce.github.io/museum-exhibit-cards/traditional-russian-objects/hlebnaya-lopata/index.html",
+      "title": "Хлебная лопата"
+    },
+    {
+      "url": "https://diehlwierce.github.io/museum-exhibit-cards/traditional-russian-objects/kadka/index.html",
+      "title": "Кадка"
+    },
+    {
+      "url": "https://diehlwierce.github.io/museum-exhibit-cards/traditional-russian-objects/kerosinovaya-lampa/index.html",
+      "title": "Керосиновая лампа"
+    },
+    {
+      "url": "https://diehlwierce.github.io/museum-exhibit-cards/traditional-russian-objects/koromyslo/index.html",
+      "title": "Коромысло"
+    },
+    {
+      "url": "https://diehlwierce.github.io/museum-exhibit-cards/traditional-russian-objects/koryto/index.html",
+      "title": "Корыто"
+    },
+    {
+      "url": "https://diehlwierce.github.io/museum-exhibit-cards/traditional-russian-objects/korzina/index.html",
+      "title": "Корзины"
+    },
+    {
+      "url": "https://diehlwierce.github.io/museum-exhibit-cards/traditional-russian-objects/krasnyi-ugol/index.html",
+      "title": "Красный угол"
+    },
+    {
+      "url": "https://diehlwierce.github.io/museum-exhibit-cards/traditional-russian-objects/krynka/index.html",
+      "title": "Крынка"
+    },
+    {
+      "url": "https://diehlwierce.github.io/museum-exhibit-cards/traditional-russian-objects/kukly/index.html",
+      "title": "Куклы"
+    },
+    {
+      "url": "https://diehlwierce.github.io/museum-exhibit-cards/traditional-russian-objects/len/index.html",
+      "title": "Лен"
+    },
+    {
+      "url": "https://diehlwierce.github.io/museum-exhibit-cards/traditional-russian-objects/letnyaya-krestyanskaya-obuv/index.html",
+      "title": "Летняя крестьянская обувь"
+    },
+    {
+      "url": "https://diehlwierce.github.io/museum-exhibit-cards/traditional-russian-objects/lyulka/index.html",
+      "title": "Люлька"
+    },
+    {
+      "url": "https://diehlwierce.github.io/museum-exhibit-cards/traditional-russian-objects/myalitsa/index.html",
+      "title": "Мялица"
+    },
+    {
+      "url": "https://diehlwierce.github.io/museum-exhibit-cards/traditional-russian-objects/rubel/index.html",
+      "title": "Рубель"
+    },
+    {
+      "url": "https://diehlwierce.github.io/museum-exhibit-cards/traditional-russian-objects/ruchnye-pryalki/index.html",
+      "title": "Ручная прялка"
+    },
+    {
+      "url": "https://diehlwierce.github.io/museum-exhibit-cards/traditional-russian-objects/russkaya-pech/index.html",
+      "title": "Русская печь"
+    },
+    {
+      "url": "https://diehlwierce.github.io/museum-exhibit-cards/traditional-russian-objects/samopryalki/index.html",
+      "title": "Самопрялка"
+    },
+    {
+      "url": "https://diehlwierce.github.io/museum-exhibit-cards/traditional-russian-objects/samovar/index.html",
+      "title": "Самовар"
+    },
+    {
+      "url": "https://diehlwierce.github.io/museum-exhibit-cards/traditional-russian-objects/tatahtushka/index.html",
+      "title": "Тарахтушка"
+    },
+    {
+      "url": "https://diehlwierce.github.io/museum-exhibit-cards/traditional-russian-objects/tkatskii-stanok/index.html",
+      "title": "Ткацкий станок"
+    },
+    {
+      "url": "https://diehlwierce.github.io/museum-exhibit-cards/traditional-russian-objects/uhvat/index.html",
+      "title": "Ухват"
+    },
+    {
+      "url": "https://diehlwierce.github.io/museum-exhibit-cards/traditional-russian-objects/utyug/index.html",
+      "title": "Утюг чугунный"
+    },
+    {
+      "url": "https://diehlwierce.github.io/museum-exhibit-cards/traditional-russian-objects/valenki/index.html",
+      "title": "Валенки"
+    },
+    {
+      "url": "https://diehlwierce.github.io/museum-exhibit-cards/traditional-russian-objects/zimnyaya-krestyanskaya-obuv/index.html",
+      "title": "Зимняя крестьянская обувь"
+    }
+  ]
+}
